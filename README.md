@@ -31,14 +31,20 @@ MAPA CONCEPTUAL
 
 ![image](https://user-images.githubusercontent.com/101129326/157282108-d5038328-1223-4b44-ac6a-3f6781af30d3.png)
 
+4.PROCEDIMIENTO
 
-CONCLUSIONES
+
+5. CONCLUSIONES
 
 
-Es posible la conversión de corriente alterna a corriente continua.
-Es esencial el uso del rectificador de onda completa para la conversión a corriente continua
-El capacitor se ocupa de estabilizar la corriente, entregando corriente cuando esta trate de variar.
-Bibliografía
+- Es posible la conversión de corriente alterna a corriente continua.
+
+-Es esencial el uso del rectificador de onda completa para la conversión a corriente continua
+
+-El capacitor se ocupa de estabilizar la corriente, entregando corriente cuando esta trate de variar.
+
+
+BIBLIOGRAFÍA
 
 [1] 	M. Sadiku, Fundamentos de circuitos electricos, Mc Graw Hill. 
 [2] 	Rashid, Electronica de Potencia, Pearson. 
