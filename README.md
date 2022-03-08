@@ -39,8 +39,15 @@ Se crea una bobina con un clavo envuelta con almbre de cobre y se lo sella con c
 ![image](https://user-images.githubusercontent.com/101129326/157285385-619b5554-91c7-456a-8f2b-2f48a6a9e782.png)
 
 
+Se hacen las conexiones de la bobina con la fuente de alimentación.
 
+![WhatsApp Image 2022-03-08 at 11 41 45 AM (1)](https://user-images.githubusercontent.com/101129326/157286208-a390d006-15ee-4cb2-b3f3-69cbcd178339.jpeg)
 
+Se coloca el clavo totalmente perpendicular a la tabla, y alineado con la lamina de ferrosa.
+
+Se instala un botella que servira como campana, al ser golpeada por la lamina ferrosa.
+
+![WhatsApp Image 2022-03-08 at 11 41 29 AM](https://user-images.githubusercontent.com/101129326/157285914-64c16df1-a17a-4461-a62a-15da20abff66.jpeg)
 
 
 5. CONCLUSIONES
@@ -53,7 +60,11 @@ Se crea una bobina con un clavo envuelta con almbre de cobre y se lo sella con c
 -El capacitor se ocupa de estabilizar la corriente, entregando corriente cuando esta trate de variar.
 
 
-BIBLIOGRAFÍA
+6.VIDEO
+
+
+
+7.BIBLIOGRAFÍA
 
 [1] 	M. Sadiku, Fundamentos de circuitos electricos, Mc Graw Hill. 
 [2] 	Rashid, Electronica de Potencia, Pearson. 
