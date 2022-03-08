@@ -34,6 +34,14 @@ MAPA CONCEPTUAL
 
 4.PROCEDIMIENTO
 
+Se crea una bobina con un clavo envuelta con almbre de cobre y se lo sella con cinta asilante.
+
+![image](https://user-images.githubusercontent.com/101129326/157285385-619b5554-91c7-456a-8f2b-2f48a6a9e782.png)
+
+
+
+
+
 
 5. CONCLUSIONES
 
