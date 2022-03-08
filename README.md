@@ -31,6 +31,7 @@ MAPA CONCEPTUAL
 
 ![image](https://user-images.githubusercontent.com/101129326/157282108-d5038328-1223-4b44-ac6a-3f6781af30d3.png)
 
+
 4.PROCEDIMIENTO
 
 
