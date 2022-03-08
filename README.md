@@ -47,7 +47,7 @@ Se coloca el clavo totalmente perpendicular a la tabla, y alineado con la lamina
 
 Se instala un botella que servira como campana, al ser golpeada por la lamina ferrosa.
 
-![WhatsApp Image 2022-03-08 at 11 41 29 AM](https://user-images.githubusercontent.com/101129326/157285914-64c16df1-a17a-4461-a62a-15da20abff66.jpeg)
+![WhatsApp Image 2022-03-08 at 11 42 44 AM (1)](https://user-images.githubusercontent.com/101129326/157286706-d17bb12f-e561-4502-a8c4-bf3b8c5ad56a.jpeg)
 
 
 5. CONCLUSIONES
