@@ -12,7 +12,8 @@ OBJETIVOS ESPECIFICOS
 
 2. MATERIAL Y EQUIPO REQUERIDO
 
-![image](https://user-images.githubusercontent.com/101129326/157281788-290a146f-9bae-423d-a7f3-aabf394cf23e.png)
+![image](https://user-images.githubusercontent.com/101129326/157282375-66d3e107-17af-42b1-a9eb-6093ca45c642.png)
+
 
 3. MARCO TEORICO
 
